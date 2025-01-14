@@ -1,12 +1,17 @@
 # todo-project-SamuelKoshy-TD1
-To-do inventory management system
 
-The project is based on TO-Do list , where the user can feed in his/her inventory based on their requirement. 
+# To-Do List Application
 
-There are 4 major operations allowed these are majorly: 
-    1. Adding a new task 
-    2. Deleting a task
-    3. Viewing the pre-existing task
-    4. Marking a task as completed
+## 📄 Description
+A console-based To-Do List application to keep track of tasks. Users can:
+- Add tasks
+- Delete tasks
+- Mark tasks as completed
+- View tasks
 
-These 4 operations are achieved on this application.
+## 🚀 How to Run the Project
+1. Clone the repository.
+2. Navigate to the project folder.
+3. Run the Python file:
+   ```bash
+   python todo_list.py
