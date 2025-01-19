@@ -1,12 +1,26 @@
-# todo-project-SamuelKoshy-TD1
-To-do inventory management system
+Improving the documentation for your TodoList project can make it easier to understand, maintain, and extend. Here's a guide on what you should include in your documentation:
+1. Project Overview
 
-The project is based on TO-Do list , where the user can feed in his/her inventory based on their requirement. 
+   Purpose: Explain what the TodoList program does (e.g., a console-based task manager for adding, viewing, and managing tasks with due dates).
+   Features: List the key features, including:
+   Adding tasks with optional due dates.
+   Viewing tasks with their status and due dates.
+   Marking tasks as complete.
+   Deleting tasks.
 
-There are 4 major operations allowed these are majorly: 
-    1. Adding a new task 
-    2. Deleting a task
-    3. Viewing the pre-existing task
-    4. Marking a task as completed
+2. System Requirements
 
-These 4 operations are achieved on this application.
+   Specify the environment needed to run the program:
+   Python version (e.g., Python 3.7 or higher).
+
+3. How to Use the Application
+
+Explain the user interface and available actions:
+
+    Menu Options:
+        1. Add Task: Allows users to add a new task with an optional due date.
+        2. View Tasks: Displays all tasks, their status, and due dates.
+        3. Complete Task: Marks a selected task as completed.
+        4. Delete Task: Removes a task by its number.
+        5. Exit: Exits the program.
+
